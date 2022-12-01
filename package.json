@@ -1,0 +1,21 @@
+{
+    "name": "mh-theme",
+    "displayName": "MH-Theme",
+    "description": "MH-Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MH-Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MH-Theme-color-theme.json"
+            }
+        ]
+    }
+}
