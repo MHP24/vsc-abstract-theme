@@ -1,5 +1,5 @@
 {
-	"name": "MH-",
+	"name": "Abstract MH",
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#1C1C1C",
@@ -7,14 +7,14 @@
 		"activityBarBadge.background": "#464646",
 		"activityBarBadge.foreground":"#bbc1c9",
 		"button.background": "#464646",
-		"diffEditor.insertedTextBackground": "#ded6d622",  // change
+		"diffEditor.insertedTextBackground": "#ded6d622",
 		"dropdown.background": "#1C1C1C",
 		"dropdown.border": "#1C1C1C",
 		"editor.background": "#1C1C1C", 
 		"editor.findMatchBackground": "#2e2d2d82",
 		"editor.findMatchHighlightBackground": "#6a6a6aa4",
 		"editor.lineHighlightBackground": "#2e2d2d82",
-		"editor.selectionBackground": "#6464645a",
+		"editor.selectionBackground": "#5454545a",
 		"editorCursor.foreground": "#bbc1c9", 
 		"editorError.foreground": "#c24038",
 		"editorGroup.emptyBackground": "#1C1C1C", 
@@ -29,7 +29,7 @@
 		"editorSuggestWidget.border": "#5d00ff00",
 		"editorSuggestWidget.selectedBackground": "#3c3c3c88",
 		"editorUnnecessaryCode.opacity": "#000000c0", 
-		"editorWhitespace.foreground": "#bbc1c9",
+		"editorWhitespace.foreground": "#1C1C1C",
 		"editorWidget.background": "#1C1C1C",
 		"input.background": "#1C1C1C",
 		"list.activeSelectionBackground": "#222222",

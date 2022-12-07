@@ -1,21 +1,39 @@
 {
-    "name": "mh-theme",
-    "displayName": "MH-Theme",
-    "description": "MH-Theme",
-    "version": "0.0.1",
+    "name": "Abstract-MH",
+    "displayName": "Abstract MH",
+    "description": "Visual Studio Code Theme",
+    "version": "1.0.0",
+    "publisher": "Miguel HP",
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
-                "label": "MH-Theme",
+                "label": "Abstract MH",
                 "uiTheme": "vs-dark",
-                "path": "./themes/MH-Theme-color-theme.json"
+                "path": "./themes/Abstract-MH-color-theme.json"
             }
         ]
-    }
+    },
+    "autor": {
+        "name": "Miguel Henriquez",
+        "email": "mig.henriquezp@gmail.com"
+    },  
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MHP24/vsc-abstract-theme.git"
+    },
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Abstract",
+        "Abstract MH",
+        "MH",
+        "MH Theme"
+    ]
 }

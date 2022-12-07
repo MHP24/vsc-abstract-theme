@@ -1,0 +1,15 @@
+{
+	"name": "Abstract MH",
+	"type": "dark",
+	"colors": {
+		"activityBar.background": "#1C1C1C",
+		"activityBar.foreground":"#bbc1c9",
+		"activityBarBadge.background": "#464646",
+		"activityBarBadge.foreground":"#bbc1c9",
+		"button.background": "#464646",
+		"diffEditor.insertedTextBackground": "#ded6d622",
+		"dropdown.background": "#1C1C1C",
+		"dropdown.border": "#1C1C1C",
+		"editor.background": "#1C1C1C"
+  }
+}
