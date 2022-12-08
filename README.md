@@ -9,6 +9,6 @@
 </h1>
 
 ## Theme Screenshot
-![Theme Screenshot](demo.png)
+![Theme Screenshot](preview.png)
 
 Happy Hacking!
